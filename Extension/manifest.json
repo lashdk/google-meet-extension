@@ -10,7 +10,7 @@
   },
   "browser_action":{
     "default_icon":"icon16.png",
-    "default_title":"vatsal sucks"
+    "default_title":"google-meet-autologger"
 
 
   },
