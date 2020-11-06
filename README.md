@@ -10,3 +10,13 @@ I made this small extension to solve a niche inconvience I was facing using goog
 3.Enable developer mode
 4. Select on load upacked option and select the 'Extension' folder you just saved
 5.Pin the extension on your taskbar
+
+
+#How to use the extension
+1.Install the extension using the above steps
+2.Pin the extension on the taskbar
+3.Go to a google-meet
+4.Click on the extension icon to enable the extension on the particular meet.
+5.Wait for pop-message to confirm extension is working
+6.Click 'ok' on popup 
+7.Enjoy :)
