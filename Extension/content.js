@@ -24,7 +24,7 @@ chrome.runtime.onMessage.addListener(gotMessage);
 function gotMessage(message,sender,sendResponse){
   if (message.txt==="clicked"){
     msg=message;
-    alert("You have been blessed by DK :)");
+    alert("Extension is working now :)");
     setInterval(check,20000);
 }
 }
